@@ -13,23 +13,23 @@
 </table>
 </div>
 <div>
-📚<h3>Tech Stack</h3>
- 🍀 Fronted: HTML, CSS, Vue3
- 🍀 Backend: JAVA
+<h3>📚Tech Stack</h3>
+ <div>🍀 Fronted: HTML, CSS, Vue3</div>
+ <div>🍀 Backend: JAVA</div>
 </div>
 
-🔧<h3>Projects<h3>
+<h3>🔧Projects<h3>
 ><div>프론트엔드: 안전성과 편리성을 지향하며 주변 상품으로 확장된 신형 차(茶) 음료점 사용자 정보 관리 시스템</div>
 ><div>Vue3 + HTML + Oracle</div>
 
- ✅<h4>이미 구현한 기능:</h4>
+ <h4>✅이미 구현한 기능:</h4>
 
 <ul>
 <li>기본 로그인 및 회원가입</li>
 <li>구매 기록 및 가맹 등록 기능</li>
 </ul>
 
-🚧 <h4>추가 구현 예정 기능:</h4>
+<h4>🚧추가 구현 예정 기능:</h4>
 <ul>
 <li>기본 가상 결제</li>
 <li>매장 전환</li>
