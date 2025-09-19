@@ -2,7 +2,7 @@
 <div align="center">아직 초심자입니다!</div>
 <hr>
 <div>
-##🔗About Me
+##🔗<h3>About Me<h3>
 <table>
 <tr><td>
 💡매우 책임감 있고 실천 정신이 강하며, 직접 실행해 얻는 진정한 지식을 신봉합니다.
@@ -12,31 +12,30 @@
 </td></tr>
 </table>
 </div>
-Tech Stack
-Fronted: HTML, CSS, Vue3
-Backend: JAVA
+<div>
+📚<h3>Tech Stack</h3>
+ 🍀 Fronted: HTML, CSS, Vue3
+ 🍀 Backend: JAVA
+</div>
 
-Projects
+🔧<h3>Projects<h3>
 ><div>프론트엔드: 안전성과 편리성을 지향하며 주변 상품으로 확장된 신형 차(茶) 음료점 사용자 정보 관리 시스템</div>
 ><div>Vue3 + HTML + Oracle</div>
 
-이미 구현한 기능:
+ ✅<h4>이미 구현한 기능:</h4>
 
-기본 로그인 및 회원가입
+<ul>
+<li>기본 로그인 및 회원가입</li>
+<li>구매 기록 및 가맹 등록 기능</li>
+<ul>
 
-구매 기록 및 가맹 등록 기능
+🚧 <h4>추가 구현 예정 기능:</h4>
+<ul>
+<li>기본 가상 결제</li>
+<li>매장 전환</li>
+<li>비밀번호 변경</li>
+<li>장바구니에 여러 상품 동시에 주문</li>
+<li>알레르기나 기피 음식 등 원클릭 차단</li>
 
-추가 구현 예정 기능:
-
-기본 가상 결제
-
-매장 전환
-
-비밀번호 변경
-
-장바구니에 여러 상품 동시에 주문
-
-알레르기나 기피 음식 등 원클릭 차단
-
-Contact: 3228302551@qq.com
+<h3>Contact: 3228302551@qq.com</h3>
 
