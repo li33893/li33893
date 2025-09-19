@@ -6,13 +6,13 @@ About Me
 팀워크를 중요하게 생각하며, 1+1>2라는 믿음을 가지고 있습니다.
 단순히 배우고 새로운 것에 접하는 것을 좋아하며, 마음이 열려 있고 발전적인 관점으로 문제를 바라봅니다.
 
->Tech Stack
->Fronted: HTML, CSS, Vue3
->Backend: JAVA
+Tech Stack
+Fronted: HTML, CSS, Vue3
+Backend: JAVA
 
 Projects
-프론트엔드: 안전성과 편리성을 지향하며 주변 상품으로 확장된 신형 차(茶) 음료점 사용자 정보 관리 시스템
-Vue3 + HTML + Oracle
+><div>프론트엔드: 안전성과 편리성을 지향하며 주변 상품으로 확장된 신형 차(茶) 음료점 사용자 정보 관리 시스템</div>
+><div>Vue3 + HTML + Oracle</div>
 
 이미 구현한 기능:
 
