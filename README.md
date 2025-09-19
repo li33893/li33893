@@ -1,8 +1,36 @@
 <h1 align="center">안녕하세요, 개발자 이미령입니다!</h1>
 <div align="center">아직 초심자입니다!</div>
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+About Me
+매우 책임감 있고 실천 정신이 강하며, 직접 실행해 얻는 진정한 지식을 신봉합니다.
+항상 기본 원리를 이해해야만 적용할 수 있는 사람이라, 학습 과정에서도 항상 탄탄하게 배우려고 노력해왔습니다.
+팀워크를 중요하게 생각하며, 1+1>2라는 믿음을 가지고 있습니다.
+단순히 배우고 새로운 것에 접하는 것을 좋아하며, 마음이 열려 있고 발전적인 관점으로 문제를 바라봅니다.
 
-<br>
+Tech Stack
+Fronted: HTML, CSS, Vue3
+Backend: JAVA
+
+Projects
+프론트엔드: 안전성과 편리성을 지향하며 주변 상품으로 확장된 신형 차(茶) 음료점 사용자 정보 관리 시스템
+Vue3 + HTML + Oracle
+
+이미 구현한 기능:
+
+기본 로그인 및 회원가입
+
+구매 기록 및 가맹 등록 기능
+
+추가 구현 예정 기능:
+
+기본 가상 결제
+
+매장 전환
+
+비밀번호 변경
+
+장바구니에 여러 상품 동시에 주문
+
+알레르기나 기피 음식 등 원클릭 차단
+
+Contact: 3228302551@qq.com
 
