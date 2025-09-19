@@ -2,7 +2,7 @@
 <div align="center">아직 초심자입니다!</div>
 <hr>
 <div>
-##<h3>🔗About Me<h3>
+<h3>🔗About Me<h3>
 <table>
 <tr><td>
 <div>💡매우 책임감 있고 실천 정신이 강하며, 직접 실행해 얻는 진정한 지식을 신봉합니다.</div>
