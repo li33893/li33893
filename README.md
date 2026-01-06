@@ -1,6 +1,6 @@
 <h1 align="center">안녕하세요, 풀스택 개발자 이미령입니다! 👋</h1>
 <div align="center">
-문제를 구조화하고, 계획적으로 실행하며, 과정을 문서화하는 개발자
+문제를 구조화하고, 계획적으로 실행하며, 과정을 문서화하는 풀스택 개발자입니다.
 </div>
 <hr>
 
@@ -11,7 +11,7 @@
 
 <div>💡 심리치료 전공 배경을 바탕으로 사용자 행동과 인지 부담을 고려한 UX를 설계합니다.</div>
 <div>💡 요구사항을 구조와 흐름 중심으로 정리하고, 확장 가능한 시스템 설계를 지향합니다.</div>
-<div>💡 경청과 맥락 이해를 바탕으로 협업하며, 논리적인 소통으로 팀 완성도를 높입니다.</div>
+<div>💡 경청과 맥락 이해를 바탕으로 협업하며, 논리적인 소통을 중요하게 생각합니다.</div>
 
 </td></tr>
 </table>
@@ -29,20 +29,10 @@
 <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS_EC2-FF9900?logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/AWS_EC2-FF9900?logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
-
-</div>
-
-<div>
-<h3>💰 Budget & Infra</h3>
-
-<img src="https://img.shields.io/badge/Budget-Self_Funded-6f42c1" />
-<img src="https://img.shields.io/badge/Infra-AWS_Based-orange?logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Cost-Cost_Aware_Structure-success" />
-<img src="https://img.shields.io/badge/Scale-Small_to_Medium-lightgrey" />
 
 </div>
 
@@ -55,7 +45,7 @@
 - 우울증 환자를 위한 릴레이 조깅 기반 상호지원 커뮤니티 플랫폼  
 - React + Node.js + Express + MySQL 풀스택 단독 개발  
 - 릴레이 조깅 상태 관리, 완료율 기반 신용도 시스템 설계  
-- Socket.io 기반 실시간 채팅·알림, JWT 인증 구현  
+- Socket.io 기반 실시간 채팅·알림 기능 구현  
 - 익명 피드 포함 커뮤니티 3구역 구조 설계  
 - <a href="https://github.com/li33893/react-sns-project.git">GitHub</a>
 
@@ -64,8 +54,8 @@
 <strong>디저트 연구소</strong> (팀 프로젝트, 2025.10 ~ 2025.11)  
 - 수제 디저트 중개 플랫폼  
 - Spring Boot + Vue.js + Oracle 기반 웹 서비스  
-- 관리자 페이지 & 구매자 마이페이지 담당  
-- 주문 옵션 데이터 분리 저장 및 JOIN 기반 조회 구현  
+- 관리자 페이지 및 구매자 마이페이지 구현 담당  
+- 주문 옵션 데이터 분리 저장 및 JOIN 기반 조회 로직 구현  
 - Apex Chart 기반 매출·정산 현황 시각화  
 - <a href="https://github.com/chchjjj/teamProject.git">GitHub</a>
 
