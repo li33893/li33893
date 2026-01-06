@@ -20,6 +20,7 @@
 <div>
 <h3>📚 Tech Stack</h3>
 
+<img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/React-18.3.1-61DAFB?logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/Flutter-Dart-02569B?logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
