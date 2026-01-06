@@ -1,57 +1,94 @@
 <h1 align="center">안녕하세요, 풀스택 개발자 이미령입니다! 👋</h1>
-<div align="center">사용자 중심으로 생각하고, 기술로 문제를 해결하는 개발자</div>
+<div align="center">
+문제를 구조화하고, 계획적으로 실행하며, 과정을 문서화하는 개발자
+</div>
 <hr>
 
 <div>
 <h3>🔗 About Me</h3>
 <table>
 <tr><td>
-<div>💡 심리학 배경을 바탕으로 사용자 행동 패턴을 이해하고 직관적인 UX를 설계합니다.</div>
-<div>💡 구조와 논리에서 시작하는 체계적 사고로, 확장 가능한 시스템 설계를 지향합니다.</div>
-<div>💡 경청과 이해를 바탕으로 원활한 협업 환경을 만들며, 팀 시너지를 중요하게 생각합니다.</div>
+
+<div>💡 심리치료 전공 배경을 바탕으로 사용자 행동과 인지 부담을 고려한 UX를 설계합니다.</div>
+<div>💡 요구사항을 구조와 흐름 중심으로 정리하고, 확장 가능한 시스템 설계를 지향합니다.</div>
+<div>💡 경청과 맥락 이해를 바탕으로 협업하며, 논리적인 소통으로 팀 완성도를 높입니다.</div>
+
 </td></tr>
 </table>
 </div>
 
 <div>
 <h3>📚 Tech Stack</h3>
-<div>🍀 Frontend: React 18.3.1, Vue.js 3, Material-UI, HTML/CSS/JavaScript</div>
-<div>🍀 Backend: Node.js, Express, Spring Boot, Java, Python</div>
-<div>🍀 Database: MySQL, Oracle, MyBatis</div>
-<div>🍀 Real-time: Socket.io (WebSocket), JWT 인증</div>
-<div>🍀 Tools: Git/GitHub, AWS (EC2, RDS, S3), Flutter</div>
+
+<img src="https://img.shields.io/badge/React-18.3.1-61DAFB?logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-Dart-02569B?logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS_EC2-FF9900?logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+
+</div>
+
+<div>
+<h3>💰 Budget & Infra</h3>
+
+<img src="https://img.shields.io/badge/Budget-Self_Funded-6f42c1" />
+<img src="https://img.shields.io/badge/Infra-AWS_Based-orange?logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Cost-Cost_Aware_Structure-success" />
+<img src="https://img.shields.io/badge/Scale-Small_to_Medium-lightgrey" />
+
 </div>
 
 <div>
 <h3>🚀 Projects</h3>
-<div>
-  
-**Sweatin'SkyBlue** (개인 프로젝트, 2025.11)
-- 우울증 환자를 위한 릴레이 조깅 커뮤니티 플랫폼
-- React + Node.js + MySQL 풀스택 개발 (8일)
-- 실시간 채팅, 알림 시스템, 14개 테이블 DB 설계
-- [GitHub](https://github.com/li33893/react-sns-project.git)
 
-**디저트 연구소** (팀 프로젝트, 2025.10)
-- 수제 디저트 중개 플랫폼
-- Spring Boot + Vue.js + Oracle
-- 관리자 페이지, 구매자 마이페이지, 매출 시각화 담당
-- [GitHub](https://github.com/chchjjj/teamProject.git)
+<div>
+
+<strong>Sweatin'SkyBlue</strong> (개인 프로젝트, 2025.11 ~ 2025.12)  
+- 우울증 환자를 위한 릴레이 조깅 기반 상호지원 커뮤니티 플랫폼  
+- React + Node.js + Express + MySQL 풀스택 단독 개발  
+- 릴레이 조깅 상태 관리, 완료율 기반 신용도 시스템 설계  
+- Socket.io 기반 실시간 채팅·알림, JWT 인증 구현  
+- 익명 피드 포함 커뮤니티 3구역 구조 설계  
+- <a href="https://github.com/li33893/react-sns-project.git">GitHub</a>
+
+<br/>
+
+<strong>디저트 연구소</strong> (팀 프로젝트, 2025.10 ~ 2025.11)  
+- 수제 디저트 중개 플랫폼  
+- Spring Boot + Vue.js + Oracle 기반 웹 서비스  
+- 관리자 페이지 & 구매자 마이페이지 담당  
+- 주문 옵션 데이터 분리 저장 및 JOIN 기반 조회 구현  
+- Apex Chart 기반 매출·정산 현황 시각화  
+- <a href="https://github.com/chchjjj/teamProject.git">GitHub</a>
 
 </div>
 </div>
 
 <div>
 <h3>🎓 Education</h3>
-<div>🎓 더조은컴퓨터아카데미 - MSA기반 플러터(Dart)활용 자바(JAVA)프론트엔드 백엔드 풀스택 웹(2025.07 ~ 2026.01)</div>
-<div>🎓 한양대학교 - 아동심리치료학과 수료 (2023.03 ~)</div>
-<div>🎓 TOPIK 6급 (2024.04)</div>
+
+<div>🎓 더조은컴퓨터아카데미  
+MSA 기반 Flutter(Dart) 활용 Java 풀스택 웹 개발 과정  
+(2025.07 ~ 2026.01)</div>
+
+<div>🎓 한양대학교 아동심리치료학과 수료 (2023.03 ~ )</div>
+<div>🎓 TOPIK 한국어능력시험 6급 (2024.04)</div>
+
 </div>
 
 <div>
 <h3>📫 Contact</h3>
+
 <div>📧 Email: 3228302551@qq.com</div>
-<div>📱 Phone: 010-2551-3228</div>
 <div>💻 GitHub: <a href="https://github.com/li33893">github.com/li33893</a></div>
-<div>📍 Location: 인천광역시 부평구</div>
+<div>📍 Location: Incheon, South Korea</div>
+
 </div>
