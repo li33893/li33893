@@ -91,7 +91,7 @@ MSA 기반 Flutter(Dart) 활용 Java 풀스택 웹 개발 과정
 <div>
 <h3>📫 Contact</h3>
 
-<div>📧 Email: 3228302551@qq.com</div>
+<div>📧 Email: lmeiling322830@gmail.com</div>
 <div>💻 GitHub: <a href="https://github.com/li33893">github.com/li33893</a></div>
 <div>📍 Location: Incheon, South Korea</div>
 
