@@ -108,8 +108,8 @@ China University of Mining & Technology, Beijing (2016.09~2020.06)</div>
 
 <div>
 <h3>🌐languages</h3>
-<div>Test for English Majors – Band 4 (TEM-4)</div>
-<div>topik 6</div>
+<div>🌐Test for English Majors – Band 4 (TEM-4)</div>
+<div>🌐topik 6</div>
 </div>
 
 <hr>
