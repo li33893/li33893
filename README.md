@@ -50,7 +50,7 @@
 
 <div>
 
-<strong>Sweatin'SkyBlue</strong> (개인 프로젝트, 2025.11 ~ 2025.12)  
+<strong>🌧️Sweatin'SkyBlue</strong> (개인 프로젝트, 2025.11 ~ 2025.12)  
 - 우울증 환자를 위한 릴레이 조깅 기반 상호지원 커뮤니티 플랫폼  
 - React + Node.js + Express + MySQL 풀스택 단독 개발  
 - 릴레이 조깅 상태 관리, 완료율 기반 신용도 시스템 설계  
@@ -60,7 +60,7 @@
 
 <br/>
 
-<strong>디저트 연구소</strong> (팀 프로젝트, 2025.10 ~ 2025.11)  
+<strong>🎂디저트 연구소</strong> (팀 프로젝트, 2025.10 ~ 2025.11)  
 - 수제 디저트 중개 플랫폼  
 - Spring Boot + Vue.js + Oracle 기반 웹 서비스  
 - 관리자 페이지 및 구매자 마이페이지 구현 담당  
