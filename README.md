@@ -90,8 +90,6 @@
 MSA 기반 Flutter(Dart) 활용 Java 풀스택 웹 개발 과정  
 (2025.07 ~ 2026.01)</div>
 <div>🎓 한양대학교 아동심리치료학과 수료 (2023.03 ~ )</div>
-<div>🎓 TOPIK 한국어능력시험 6급 (2024.04)</div>
-<div>🎓 TOPIK 한국어능력시험 6급 (2024.04)</div>
 <div>🎓 Bachelor’s Degree in English Language and Literature
 China University of Mining & Technology, Beijing (2016.09~2020.06)</div>
 
