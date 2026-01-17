@@ -66,7 +66,7 @@
 
 <br/>
 
-<strong>🍳 ShakeCook</strong> (팀 프로젝트, 2024.12 ~ 2025.01)  
+<strong>🍳 ShakeCook</strong> (팀 프로젝트, 2025.12 ~ 2026.01)  
 - AI 기반 레시피 추천 모바일 앱  
 - Flutter + Firebase + Google Gemini AI 기반 크로스 플랫폼 앱  
 - 커뮤니티 및 알림 시스템 구현 담당  
