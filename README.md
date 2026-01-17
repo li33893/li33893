@@ -70,13 +70,14 @@
 
 <br/>
 
-<strong>ShakeCook</strong> (팀 프로젝트, 2024.12 ~ 2025.01)  
+<strong>🍳 ShakeCook</strong> (팀 프로젝트, 2024.12 ~ 2025.01)  
 - AI 기반 레시피 추천 모바일 앱  
 - Flutter + Firebase + Google Gemini AI 기반 크로스 플랫폼 앱  
-- AI 레시피 추천 및 흔들기 제스처 기능 구현 담당  
-- Google Gemini API 연동으로 재료 기반 맞춤형 레시피 3개 자동 생성  
-- Shake 패키지 활용한 인터랙티브 UX 및 진행률 표시 구현  
-- <a href="https://github.com/chchjjj/ShakeCook](https://github.com/harford-stack/flutter_team_project.git">GitHub</a>
+- 커뮤니티 및 알림 시스템 구현 담당  
+- Firebase Storage 활용한 이미지 업로드 및 게시글 작성 기능 구현  
+- 댓글/대댓글, 북마크, 카테고리 필터링, 검색 기능 개발  
+- 실시간 알림 시스템 구축 (북마크, 댓글 알림)  
+- <a href="https://github.com/harford-stack/flutter_team_project.git">GitHub</a>
 
 </div>
 </div>
