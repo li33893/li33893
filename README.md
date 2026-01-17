@@ -96,8 +96,8 @@
 ## 🌐 Languages
 
 - **Chinese**: Native
-- **Korean**: Fluent (professional working proficiency)
-- **English**: TEM-4 (Test for English Majors – Band 4), TOPIK Level 6
+- **Korean**: Fluent (professional working proficiency), TOPIK Level 6
+- **English**: TEM-4 (Test for English Majors – Band 4)
 
 <hr>
 
