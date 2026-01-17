@@ -60,8 +60,8 @@
 
 <br/>
 
-<strong>Shake Cook</strong> (팀 프로젝트, 2025.12.22 ~ 2026.01.08)  
-- 재료를 선택하고 폰을 흔들면 AI가 맞춤형 레시피를 추천해주는 Flutter 기반 모바일 앱.
+<strong>디저트 연구소</strong> (팀 프로젝트, 2025.10 ~ 2025.11)  
+- 수제 디저트 중개 플랫폼  
 - Spring Boot + Vue.js + Oracle 기반 웹 서비스  
 - 관리자 페이지 및 구매자 마이페이지 구현 담당  
 - 주문 옵션 데이터 분리 저장 및 JOIN 기반 조회 로직 구현  
@@ -70,7 +70,7 @@
 
 <br/>
 
-<strong>🍳 ShakeCook</strong> (팀 프로젝트, 2024.12 ~ 2025.01)  
+<strong>ShakeCook</strong> (팀 프로젝트, 2024.12 ~ 2025.01)  
 - AI 기반 레시피 추천 모바일 앱  
 - Flutter + Firebase + Google Gemini AI 기반 크로스 플랫폼 앱  
 - AI 레시피 추천 및 흔들기 제스처 기능 구현 담당  
