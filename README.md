@@ -102,16 +102,14 @@ China University of Mining & Technology, Beijing (2016.09~2020.06)</div>
 <h3>📜certications</h3>
 <div>📜특수아동지도사</div>
 </div>
-
-<hr>
+---
 
 <div>
 <h3>🌐languages</h3>
 <div>🌐Test for English Majors – Band 4 (TEM-4)</div>
 <div>🌐topik 6</div>
 </div>
-
-<hr>
+---
 
 <div>
 <h3>📫 Contact</h3>
