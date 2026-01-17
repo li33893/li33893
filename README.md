@@ -96,13 +96,13 @@ China University of Mining & Technology, Beijing (2016.09~2020.06)</div>
 
 </div>
 
-<hr style="height: 0.5px; border: none; background: #ddd;">
+<hr style="height: 0.2px; border: none; background: #ddd;">
 
 <div>
 <h3>📜certications</h3>
 <div>📜특수아동지도사</div>
 </div>
-<hr style="height: 0.5px; border: none; background: #ddd;">
+<hr style="height: 0.2px; border: none; background: #ddd;">
 
 <div>
 <h3>🌐languages</h3>
