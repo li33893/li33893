@@ -60,13 +60,23 @@
 
 <br/>
 
-<strong>디저트 연구소</strong> (팀 프로젝트, 2025.10 ~ 2025.11)  
-- 수제 디저트 중개 플랫폼  
+<strong>Shake Cook</strong> (팀 프로젝트, 2025.12.22 ~ 2026.01.08)  
+- 재료를 선택하고 폰을 흔들면 AI가 맞춤형 레시피를 추천해주는 Flutter 기반 모바일 앱.
 - Spring Boot + Vue.js + Oracle 기반 웹 서비스  
 - 관리자 페이지 및 구매자 마이페이지 구현 담당  
 - 주문 옵션 데이터 분리 저장 및 JOIN 기반 조회 로직 구현  
 - Apex Chart 기반 매출·정산 현황 시각화  
 - <a href="https://github.com/chchjjj/teamProject.git">GitHub</a>
+
+<br/>
+
+<strong>🍳 ShakeCook</strong> (팀 프로젝트, 2024.12 ~ 2025.01)  
+- AI 기반 레시피 추천 모바일 앱  
+- Flutter + Firebase + Google Gemini AI 기반 크로스 플랫폼 앱  
+- AI 레시피 추천 및 흔들기 제스처 기능 구현 담당  
+- Google Gemini API 연동으로 재료 기반 맞춤형 레시피 3개 자동 생성  
+- Shake 패키지 활용한 인터랙티브 UX 및 진행률 표시 구현  
+- <a href="https://github.com/chchjjj/ShakeCook](https://github.com/harford-stack/flutter_team_project.git">GitHub</a>
 
 </div>
 </div>
@@ -79,12 +89,27 @@
 <div>🎓 더조은컴퓨터아카데미  
 MSA 기반 Flutter(Dart) 활용 Java 풀스택 웹 개발 과정  
 (2025.07 ~ 2026.01)</div>
-
 <div>🎓 한양대학교 아동심리치료학과 수료 (2023.03 ~ )</div>
+<div>🎓 TOPIK 한국어능력시험 6급 (2024.04)</div>
 <div>🎓 TOPIK 한국어능력시험 6급 (2024.04)</div>
 <div>🎓 Bachelor’s Degree in English Language and Literature
 China University of Mining & Technology, Beijing (2016.09~2020.06)</div>
 
+</div>
+
+<hr>
+
+<div>
+<h3>📜certications</h3>
+<div>📜특수아동지도사</div>
+</div>
+
+<hr>
+
+<div>
+<h3>🌐languages</h3>
+<div>Test for English Majors – Band 4 (TEM-4)</div>
+<div>topik 6</div>
 </div>
 
 <hr>
