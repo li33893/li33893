@@ -3,7 +3,7 @@
 사용자 관점에서 문제를 정의하고, 구조적으로 해결하는 풀스택 개발자입니다.
 </div>
 
-<br>
+<hr>
 
 ## 🔗 About Me
 
@@ -21,7 +21,7 @@
 </td></tr>
 </table>
 
-<br>
+<hr>
 
 ## 📚 Tech Stack
 
@@ -39,40 +39,40 @@
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
 </div>
 
-<br>
+<hr>
 
 ## 🚀 Projects
 
-### 🌧️ Sweatin'SkyBlue (개인 프로젝트, 2025.11 ~ 2025.12)
-우울증 환자를 위한 릴레이 조깅 기반 상호지원 커뮤니티 플랫폼
-- **Tech Stack**: React + Node.js + Express + MySQL
-- **주요 역할**: 풀스택 단독 개발
-- **핵심 구현**:
-  - 릴레이 조깅 상태 관리 및 완료율 기반 신용도 시스템 설계
-  - Socket.io 기반 실시간 채팅·알림 기능 구현
-  - 익명 피드 포함 커뮤니티 3구역 구조 설계
-- [GitHub](https://github.com/li33893/react-sns-project.git)
+<strong>🌧️ Sweatin'SkyBlue</strong> (개인 프로젝트, 2025.11 ~ 2025.12)  
+- 우울증 환자를 위한 릴레이 조깅 기반 상호지원 커뮤니티 플랫폼  
+- React + Node.js + Express + MySQL 풀스택 단독 개발  
+- 릴레이 조깅 상태 관리, 완료율 기반 신용도 시스템 설계  
+- Socket.io 기반 실시간 채팅·알림 기능 구현  
+- 익명 피드 포함 커뮤니티 3구역 구조 설계  
+- <a href="https://github.com/li33893/react-sns-project.git">GitHub</a>
 
-### 🎂 디저트 연구소 (팀 프로젝트, 2025.10 ~ 2025.11)
-수제 디저트 중개 플랫폼
-- **Tech Stack**: Spring Boot + Vue.js + Oracle
-- **담당 역할**: 관리자 페이지 및 구매자 마이페이지 구현
-- **핵심 구현**:
-  - 주문 옵션 데이터 분리 저장 및 JOIN 기반 조회 로직 구현
-  - Apex Chart 기반 매출·정산 현황 시각화
-- [GitHub](https://github.com/chchjjj/teamProject.git)
+<br/>
 
-### 🍳 ShakeCook (팀 프로젝트, 2024.12 ~ 2025.01)
-AI 기반 레시피 추천 모바일 앱
-- **Tech Stack**: Flutter + Firebase + Google Gemini AI
-- **담당 역할**: 커뮤니티 및 알림 시스템 구현
-- **핵심 구현**:
-  - Firebase Storage 활용한 이미지 업로드 및 게시글 작성 기능
-  - 댓글/대댓글, 북마크, 카테고리 필터링, 검색 기능 개발
-  - 실시간 알림 시스템 구축 (북마크, 댓글 알림)
-- [GitHub](https://github.com/harford-stack/flutter_team_project.git)
+<strong>🎂 디저트 연구소</strong> (팀 프로젝트, 2025.10 ~ 2025.11)  
+- 수제 디저트 중개 플랫폼  
+- Spring Boot + Vue.js + Oracle 기반 웹 서비스  
+- 관리자 페이지 및 구매자 마이페이지 구현 담당  
+- 주문 옵션 데이터 분리 저장 및 JOIN 기반 조회 로직 구현  
+- Apex Chart 기반 매출·정산 현황 시각화  
+- <a href="https://github.com/chchjjj/teamProject.git">GitHub</a>
 
-<br>
+<br/>
+
+<strong>🍳 ShakeCook</strong> (팀 프로젝트, 2024.12 ~ 2025.01)  
+- AI 기반 레시피 추천 모바일 앱  
+- Flutter + Firebase + Google Gemini AI 기반 크로스 플랫폼 앱  
+- 커뮤니티 및 알림 시스템 구현 담당  
+- Firebase Storage 활용한 이미지 업로드 및 게시글 작성 기능 구현  
+- 댓글/대댓글, 북마크, 카테고리 필터링, 검색 기능 개발  
+- 실시간 알림 시스템 구축 (북마크, 댓글 알림)  
+- <a href="https://github.com/harford-stack/flutter_team_project.git">GitHub</a>
+
+<hr>
 
 ## 🎓 Education
 
@@ -85,22 +85,21 @@ AI 기반 레시피 추천 모바일 앱
 - **China University of Mining & Technology, Beijing**  
   Bachelor of Arts in English Language and Literature (2016.09 ~ 2020.06)
 
-<br>
+<hr>
 
 ## 📜 Certifications
 
 - 특수아동지도사
 
-<br>
+<hr>
 
 ## 🌐 Languages
 
-- **Korean**: Native
 - **Chinese**: Native
-- **English**: TEM-4 (Test for English Majors – Band 4)
-- **Korean Proficiency**: TOPIK Level 6
+- **Korean**: Fluent (professional working proficiency)
+- **English**: TEM-4 (Test for English Majors – Band 4), TOPIK Level 6
 
-<br>
+<hr>
 
 ## 📫 Contact
 
