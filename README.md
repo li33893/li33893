@@ -79,37 +79,19 @@
 
 ## 🎓 Education & Certifications
 
-**교육 과정**
-- **더조은컴퓨터아카데미**  
-  MSA 기반 Flutter(Dart) 활용 Java 풀스택 웹 개발 과정 (2025.07 ~ 2026.01)
-
-- **한양대학교**  
-  아동심리치료학과 석사과정 수료 (2023.03 ~ )
-
-- **China University of Mining & Technology, Beijing**  
-  Bachelor of Arts in English Language and Literature (2016.09 ~ 2020.06)
-
-**자격증**
-- 특수아동지도사
-
-**언어 능력**
-- **Chinese**: Native
-- **Korean**: Fluent (professional working proficiency), TOPIK Level 6
-- **English**: TEM-4 (Test for English Majors – Band 4)
+| 구분 | 내용 |
+|------|------|
+| **교육** | 더조은컴퓨터아카데미 - MSA 기반 Flutter(Dart) 활용 Java 풀스택 웹 개발 과정 (2025.07 ~ 2026.01) |
+| | 한양대학교 - 아동심리치료학과 석사과정 수료 (2023.03 ~ ) |
+| | China University of Mining & Technology, Beijing - Bachelor of Arts in English (2016.09 ~ 2020.06) |
+| **자격증** | 특수아동지도사 |
+| **언어** | Chinese (Native) · Korean (TOPIK Level 6) · English (TEM-4) |
 
 <hr>
 
-## 📬 Contact & Links
+## 📫 Contact
 
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Email-lmeiling322830@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lmeiling322830@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-li33893-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/li33893)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_PDF-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1K4IeU3l8GsUK1PhHTzYA-A4JCQkp1CUA/view?usp=drive_link)
-[![Location](https://img.shields.io/badge/Location-Incheon,_South_Korea-FF6B6B?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
-</div>
+- **Email**: lmeiling322830@gmail.com
+- **GitHub**: [github.com/li33893](https://github.com/li33893)
+- **Portfolio**: [View PDF](https://drive.google.com/file/d/1K4IeU3l8GsUK1PhHTzYA-A4JCQkp1CUA/view?usp=drive_link)
+- **Location**: Incheon, South Korea
