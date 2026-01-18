@@ -103,5 +103,5 @@
 
 - **Email**: lmeiling322830@gmail.com
 - **GitHub**: [github.com/li33893](https://github.com/li33893)
-- **Portfolio**:[ View PDF(https://drive.google.com/file/d/1K4IeU3l8GsUK1PhHTzYA-A4JCQkp1CUA/view?usp=drive_link)](https://drive.google.com/file/d/1nCNsbwN5mcuV1-ovlUcrejVJQzj0Ikr2/view?usp=sharing)
+- **Portfolio**:[ View PDF(https://drive.google.com/file/d/1K4IeU3l8GsUK1PhHTzYA-A4JCQkp1CUA/view?usp=drive_link)](https://drive.google.com/file/d/1nCNsbwN5mcuV1-ovlUcrejVJQzj0Ikr2/view?usp=sharing)]
 - **Location**: Incheon, South Korea
