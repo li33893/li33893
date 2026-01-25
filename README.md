@@ -77,28 +77,6 @@
 
 <hr>
 
-## 🎓 Education & Certifications
-
-**교육 과정**
-- **더조은컴퓨터아카데미**  
-  MSA 기반 Flutter(Dart) 활용 Java 풀스택 웹 개발 과정 (2025.07 ~ 2026.01)
-
-- **한양대학교**  
-  아동심리치료학과 석사과정 수료 (2023.03 ~ )
-
-- **China University of Mining & Technology, Beijing**  
-  Bachelor of Arts in English Language and Literature (2016.09 ~ 2020.06)
-
-**자격증**
-- 특수아동지도사
-
-**언어 능력**
-- **Chinese**: Native
-- **Korean**: Fluent (professional working proficiency), TOPIK Level 6
-- **English**: TEM-4 (Test for English Majors – Band 4)
-
-<hr>
-
 ## 📫 Contact
 
 - **Email**: lmeiling322830@gmail.com
