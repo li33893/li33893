@@ -25,8 +25,11 @@ Research-trained AI evaluation and policy candidate with hands-on experience in 
 
 ## Education
 
-- **Hanyang University** — M.A. in Child Psychotherapy, `2023–Present`
-- **China University of Mining and Technology, Beijing** — B.A. in English Language and Literature, `2016–2020`
+**Hanyang University** — M.A. in Child Psychotherapy (Research Methods focus), Expected 2026
+- Thesis: AI-mediated mental health support — classification framework design, LLM-assisted validation, and discourse analysis
+- Systematic meta-analysis (PRISMA, Cochrane RoB 2.0)
+
+**China University of Mining and Technology, Beijing** — B.A. in English Language and Literature, 2020
 
 <hr>
 
