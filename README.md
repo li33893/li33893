@@ -1,85 +1,97 @@
-<h1 align="center">안녕하세요, 풀스택 개발자 이미령입니다! 👋</h1>
+<h1 align="center">Hi, I'm Elle Li 👋</h1>
 <div align="center">
-사용자 관점에서 문제를 정의하고, 구조적으로 해결하는 풀스택 개발자입니다.
+Research-trained AI evaluation and policy candidate with hands-on experience in classification framework design, LLM-assisted validation, and evidence synthesis.
 </div>
 
 <hr>
 
-## 🔗 About Me
+## About Me
 
 <table>
 <tr><td>
 
-💡 심리치료 전공을 통해 인간의 행동, 감정, 의사결정 과정을 학습하며 **사용자 관점에서 문제를 바라보는 시각**을 길렀습니다.
+🔬 My master's research examines how users engage with AI for mental health support — combining critical discourse analysis with a structured screening, coding, and validation pipeline that I designed and implemented end-to-end.
 
-💡 개발 과정에서는 기능 구현보다 먼저 **이 서비스가 해결하려는 핵심 문제가 무엇인지**, 그리고 **누구를 위한 기능인지**를 정리하는 것을 중요하게 생각합니다.
+📊 I build systematic evaluation workflows: from classification framework design and coding manual development, through human–LLM agreement verification, to batch deployment with quality assurance.
 
-💡 요구사항을 기능 단위가 아닌 **데이터 흐름과 상태 변화** 중심으로 구조화하며, 이후 확장과 유지보수가 용이한 설계를 지향합니다.
+📝 My second research project is a PRISMA-compliant meta-analysis using Cochrane RoB 2.0 and random-effects modelling — demonstrating the capacity to evaluate evidence quality at the standard expected in policy research.
 
-💡 협업 시에는 경청과 맥락 이해를 바탕으로 논리적인 소통을 추구하며, 진행 상황과 판단 근거를 공유하는 개발자가 되고자 합니다.
+🌏 Trilingual (Chinese · Korean · English) with permanent residency in South Korea. Background in psychology provides a user-behaviour lens on AI safety and governance questions.
 
 </td></tr>
 </table>
 
 <hr>
 
-## 📚 Tech Stack
+## Education
+
+- **Hanyang University** — M.A. in Child Psychotherapy, `2023–Present`
+- **China University of Mining and Technology, Beijing** — B.A. in English Language and Literature, `2016–2020`
+
+<hr>
+
+<hr>
+
+## Tech & Methods
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic_API-191919?logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-18.3.1-61DAFB?logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-Dart-02569B?logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
 </div>
 
-<hr>
+<br>
 
-## 🚀 Projects
-
-<strong>🌧️ Sweatin'SkyBlue</strong> (개인 프로젝트, 2025.11 ~ 2025.12)  
-- 우울증 환자를 위한 릴레이 조깅 기반 상호지원 커뮤니티 플랫폼  
-- React + Node.js + Express + MySQL 풀스택 단독 개발  
-- 릴레이 조깅 상태 관리, 완료율 기반 신용도 시스템 설계  
-- Socket.io 기반 실시간 채팅·알림 기능 구현  
-- 익명 피드 포함 커뮤니티 3구역 구조 설계  
-- <a href="https://github.com/li33893/react-sns-project.git">GitHub</a>
-
-<br/>
-
-<strong>🎂 디저트 연구소</strong> (팀 프로젝트, 2025.10 ~ 2025.11)  
-- 수제 디저트 중개 플랫폼  
-- Spring Boot + Vue.js + Oracle 기반 웹 서비스  
-- 관리자 페이지 및 구매자 마이페이지 구현 담당  
-- 주문 옵션 데이터 분리 저장 및 JOIN 기반 조회 로직 구현  
-- Apex Chart 기반 매출·정산 현황 시각화  
-- <a href="https://github.com/chchjjj/teamProject.git">GitHub</a>
-
-<br/>
-
-<strong>🍳 ShakeCook</strong> (팀 프로젝트, 2025.12 ~ 2026.01)  
-- AI 기반 레시피 추천 모바일 앱  
-- Flutter + Firebase + Google Gemini AI 기반 크로스 플랫폼 앱  
-- 커뮤니티 및 알림 시스템 구현 담당  
-- Firebase Storage 활용한 이미지 업로드 및 게시글 작성 기능 구현  
-- 댓글/대댓글, 북마크, 카테고리 필터링, 검색 기능 개발  
-- 실시간 알림 시스템 구축 (북마크, 댓글 알림)  
-- <a href="https://github.com/harford-stack/flutter_team_project.git">GitHub</a>
+**Research Methods**: Systematic review (PRISMA) · Meta-analysis (random-effects, Hedge's *g*) · Risk of Bias assessment (Cochrane RoB 2.0) · Inter-rater reliability (Cohen's κ, Gwet's AC1) · Stratified sampling · Content classification framework design · Critical discursive psychology (CDP)
 
 <hr>
 
-## 📫 Contact
+## Projects
+
+### 🔬 Main Research Projects
+
+**AI-Mediated Mental Health Content: Screening, Coding, and Validation Workflow**
+- Designed and implemented a 7-stage pipeline for screening, classifying, and validating 2,000+ Reddit posts on AI use in mental health contexts
+- Built a multi-dimensional classification framework with iterative decision rule refinement for ambiguous content
+- Established human–LLM agreement verification (Cohen's κ ≥ 0.80) using dual reliability metrics
+- Implemented batch LLM coding with exponential backoff, checkpoint recovery, and structured error handling
+- Key finding: AI disclaimers function as authorisation mechanisms rather than warnings — a direct implication for AI governance policy
+- **Python · Anthropic API · Pandas · Statistical validation**
+- [GitHub Repository](https://github.com/li33893/reddit-ai-mh-pipeline)
+
+<br>
+
+**Unguided Self-Help CBT for Adolescent Depression: A Meta-Analysis**
+- Conducted a PRISMA-compliant systematic review and meta-analysis of RCTs
+- Applied Cochrane RoB 2.0 quality assessment across all included studies
+- Computed effect sizes (Hedge's *g*) under random-effects model with subgroup and sensitivity analyses
+- Assessed publication bias using funnel plots, Egger's test, and trim-and-fill methods
+- Coded intervention components at the individual-element level for moderator analysis
+- **R · Systematic review methodology · Evidence synthesis**
+- [GitHub Repository](https://github.com/li33893/meta-analysis-cbt)
+
+<br>
+
+### 💻 Development Project
+
+**🌧️ Sweatin'SkyBlue** — Relay jogging community platform for mutual support
+- Full-stack solo project: React + Node.js + Express + MySQL
+- Relay jogging state management with completion-rate-based credit system
+- Real-time chat and notification via Socket.io
+- Anonymous feed and 3-zone community structure
+- [GitHub Repository](https://github.com/li33893/react-sns-project.git)
+
+<hr>
+
+## Contact
 
 - **Email**: lmeiling322830@gmail.com
 - **GitHub**: [github.com/li33893](https://github.com/li33893)
-- **Portfolio**: [https://drive.google.com/file/d/1nCNsbwN5mcuV1-ovlUcrejVJQzj0Ikr2/view?usp=sharing](https://drive.google.com/file/d/1J8fI-jiiDPCtRgVuxWa8OnAZOjj3_rWV/view?usp=sharing)
 - **Location**: Incheon, South Korea
