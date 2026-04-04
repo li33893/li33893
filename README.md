@@ -67,7 +67,7 @@ Research-trained AI evaluation and policy candidate with hands-on experience in 
 - Implemented batch LLM coding with exponential backoff, checkpoint recovery, and structured error handling
 - Key finding: AI disclaimers function as authorisation mechanisms rather than warnings — a direct implication for AI governance policy
 - **Python · Anthropic API · Pandas · Statistical validation**
-- [GitHub Repository](https://github.com/li33893/reddit-ai-mh-pipeline)
+- [GitHub Repository](https://github.com/li33893/reddit-content-classificaiton-pipeline)
 
 <br>
 
