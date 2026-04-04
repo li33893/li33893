@@ -78,7 +78,7 @@ Research-trained AI evaluation and policy candidate with hands-on experience in 
 - Assessed publication bias using funnel plots, Egger's test, and trim-and-fill methods
 - Coded intervention components at the individual-element level for moderator analysis
 - **R · Systematic review methodology · Evidence synthesis**
-- [GitHub Repository](https://github.com/li33893/meta-analysis-cbt)
+- [GitHub Repository](https://github.com/li33893/meta-analysis)
 
 <br>
 
