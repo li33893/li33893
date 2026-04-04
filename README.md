@@ -89,7 +89,7 @@ Research-trained AI evaluation and policy candidate with hands-on experience in 
 - Relay jogging state management with completion-rate-based credit system
 - Real-time chat and notification via Socket.io
 - Anonymous feed and 3-zone community structure
-- [GitHub Repository](https://github.com/li33893/react-sns-project.git)
+- [GitHub Repository](https://github.com/li33893/react-sns-project)
 
 <hr>
 
