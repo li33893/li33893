@@ -14,8 +14,6 @@ Full-stack & mobile developer who ships products end-to-end — Spring/Oracle ba
 
 안녕하세요, **풀스택·모바일 개발자 이메이링(Elle Li)** 입니다.
 
-웹과 모바일 제품을 기획부터 배포까지 직접 구현합니다. 부트캠프에서 **Java / Spring Boot / Oracle** 기반 팀 프로젝트(디저트 중개 플랫폼)를 완수했고, **React·Node** 풀스택 서비스와 **Flutter** 앱을 만들었습니다. 석사 연구에서는 Python·LLM API로 데이터 수집·분류·검증 파이프라인을 직접 설계·구현했습니다.
-
 복잡한 요구사항을 안정적인 시스템으로 옮기는 일과, 데이터·검증 로직을 꼼꼼하게 다루는 일을 좋아합니다. **중국어·한국어·영어** 3개 국어로 협업할 수 있습니다.
 
 <hr>
