@@ -14,7 +14,7 @@ Full-stack & mobile developer who ships products end-to-end — Spring/Oracle ba
 
 안녕하세요, **풀스택·모바일 개발자 이메이링(Elle Li)** 입니다.
 
-웹과 모바일 제품을 기획부터 배포까지 직접 구현합니다. KDT 부트캠프에서 **Java / Spring Boot / Oracle** 기반 팀 프로젝트를 완수했고, **React·Node** 풀스택 서비스와 **Flutter** 앱을 만들었습니다. 석사 연구에서는 Python·LLM API로 데이터 수집·분류·검증 파이프라인을 설계·구현했습니다.
+웹과 모바일 제품을 기획부터 배포까지 직접 구현합니다. 부트캠프에서 **Java / Spring Boot / Oracle** 기반 팀 프로젝트(디저트 중개 플랫폼)를 완수했고, **React·Node** 풀스택 서비스와 **Flutter** 앱을 만들었습니다. 석사 연구에서는 Python·LLM API로 데이터 수집·분류·검증 파이프라인을 직접 설계·구현했습니다.
 
 복잡한 요구사항을 안정적인 시스템으로 옮기는 일과, 데이터·검증 로직을 꼼꼼하게 다루는 일을 좋아합니다. **중국어·한국어·영어** 3개 국어로 협업할 수 있습니다.
 
@@ -25,11 +25,11 @@ Full-stack & mobile developer who ships products end-to-end — Spring/Oracle ba
 <table>
 <tr><td>
 
-💻 I build **full-stack web and mobile products end-to-end** — from DB design and backend logic to UI. My team project shipped a real e-commerce platform on **Spring Boot / Oracle / Vue 3**; my solo project is a **React + Node** community service with real-time chat.
+💻 I build **full-stack web and mobile products end-to-end** — from DB schema design and backend logic to UI. My team project shipped an e-commerce / brokerage platform on **Spring Boot / Oracle / Vue 3**; my solo project is a **React + Node** community service with real-time chat built on a self-designed multi-table MySQL schema.
 
-🔬 My master's research turns messy, real-world data into reliable pipelines: I designed and implemented a **Python + LLM-API** workflow to screen, classify, and validate 2,000+ posts, with human–LLM agreement verification.
+🔬 My master's research turns messy real-world data into reliable pipelines: I designed and implemented a **Python + Anthropic API** workflow to screen, classify, and validate 2,000+ Reddit posts, with human–LLM agreement verification.
 
-📊 I care about **correctness and reliability** — settlement/commission logic, CRUD integrity, batch jobs with retry/checkpoint recovery, and statistical validation. Research methods training gives me a habit of testing assumptions before trusting output.
+📊 I care about **correctness and reliability** — settlement/commission logic, CRUD integrity, batch jobs with retry/checkpoint recovery, and fail-fast data validation. Research-methods training gives me the habit of testing assumptions before trusting output.
 
 🌏 **Trilingual (Chinese · Korean · English)** with permanent residency in South Korea. Comfortable collaborating in Korean and English.
 
@@ -71,13 +71,14 @@ Full-stack & mobile developer who ships products end-to-end — Spring/Oracle ba
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Anthropic_API-191919?logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white" />
 </div>
 
 <br>
 
-**Methods**: Real-time features (WebSocket / Socket.io) · Payment & auth API integration (PortOne, CoolSMS, Kakao) · Batch processing with retry & checkpointing · Inter-rater reliability (Cohen's κ, Gwet's AC1) · Classification framework design
+**Methods**: Real-time features (WebSocket / Socket.io) · Payment & auth API integration (PortOne, CoolSMS, Kakao, JWT, bcrypt) · Batch LLM processing with retry & checkpointing · Inter-rater reliability (Cohen's κ, Gwet's AC1) · Content classification framework design
 
 <hr>
 
@@ -91,26 +92,29 @@ A full e-commerce / brokerage platform connecting dessert sellers and buyers. **
   - **Commission settlement logic** tied to the platform's revenue structure
   - Membership management; purchase history with per-order option retrieval
   - Payment-state-aware review system; **ApexCharts** sales/usage dashboards
-- Integrated APIs across the project: Kakao Map, PortOne (payment), CoolSMS (SMS auth)
+- Project-wide API integration: Kakao Map, PortOne (payment), CoolSMS (SMS auth)
 - [GitHub Repository](https://github.com/chchjjj/teamProject)
 
 <br>
 
-### 🌧️ Sweatin'SkyBlue — Relay jogging community platform
-Full-stack **solo** project for mutual-support running groups.
-- **Stack**: React · Node.js · Express · MySQL · Socket.io
-- Designed relay jogging group logic with completion-rate-based participation rules
-- Implemented **real-time chat and notifications** via Socket.io
-- Built an anonymous feed and a 3-zone community structure
+### 🌧️ Sweatin'SkyBlue — Relay-jogging mutual-support platform
+**Solo full-stack** project (8 days) helping people build exercise habits to ease depressive symptoms.
+- **Stack**: React 18 · Material-UI · Socket.io · Node.js · Express · MySQL · JWT · bcrypt
+- **Relay jogging system**: previous runner finishes → next starts; completion-rate gating (90%+ to qualify as leader) with a leader-skip fallback so a late/incomplete runner doesn't block the team
+- **3-zone community feed** (exercise / daily life / anonymous venting): likes, comments, bookmarks, region & zone filters, search
+- Real-time chat and notifications via **Socket.io**; follow/follower system; JWT + bcrypt auth; Daum Postcode API
+- Designed a **~19-table MySQL schema**, refactoring the data model around relay scenarios after the initial flat structure proved insufficient
 - [GitHub Repository](https://github.com/li33893/react-sns-project)
 
 <br>
 
-### 📱 Flutter Team Project — AI-assisted recipe & community app
-Mobile app; contributed community, notification, and navigation features.
-- **Stack**: Flutter · Dart · Firebase
-- Built post detail, comment/reply interactions, bookmark flow, and notification-linked navigation
-- Connected community interaction to real-time user feedback; integrated Firebase data handling
+### 🍳 ShakeCook — AI recipe recommendation app
+Shake your phone to get AI-generated recipes from the ingredients you have. **4-person Flutter team project.**
+- **Stack**: Flutter · Dart · Firebase (Auth / Firestore / Storage) · Google Gemini API
+- **My role** — Community & Notification features:
+  - Post creation with image upload (Firebase Storage), comments & replies, bookmarks
+  - Category filtering, title/content search, latest/popular sorting
+  - Notification list with real-time updates
 - [GitHub Repository](https://github.com/harford-stack/flutter_team_project)
 
 <hr>
@@ -118,33 +122,34 @@ Mobile app; contributed community, notification, and navigation features.
 ## 🔬 Research & Data Projects
 
 ### AI-Mediated Mental Health Content — Screening, Coding & Validation Pipeline
-A reproducible **Python + LLM-API** workflow for classifying and validating Reddit data at scale.
-- Built a **10-stage pipeline** to screen, classify, and validate 2,000+ posts
-- Designed a multi-dimensional classification framework with iterative decision rules
-- Established **human–LLM agreement verification** (Cohen's κ ≥ 0.80) using dual reliability metrics
-- Implemented batch LLM coding with **exponential backoff, checkpoint recovery, and structured error handling**
+A Python research workflow for classifying AI-in-mental-health Reddit posts at scale.
+- Multi-stage pipeline: collection (ArcticShift) → **LLM relevance screening** → human–LLM agreement → cleaning & stratified sampling → multi-dimensional coding → validation → batch coding → descriptive stats → held-out validation
+- **Human–LLM agreement** with dual metrics (Cohen's κ + Gwet's AC1, handling the prevalence paradox): screening κ ≈ 0.86; coding dimensions κ ≈ 0.68–0.81
+- Batch coding with **exponential backoff, checkpoint recovery, and cost estimation**; `temperature = 0` for reproducibility; Wilson-score CIs for proportions
 - Key finding: AI disclaimers function as authorization mechanisms rather than warnings
-- **Python · Anthropic API · Pandas · Statistical validation**
+- **Python · Anthropic API (Claude) · Pandas**
 - [GitHub Repository](https://github.com/li33893/reddit-content-classificaiton-pipeline)
 
 <br>
 
-### Meta-Analysis Pipeline (R)
-A fully reproducible meta-analysis codebase, organized for clarity and re-runnability.
-- Modular, **numbered R scripts** (setup → data → analysis → outputs) for end-to-end reproducibility
-- Automated effect-size computation, heterogeneity assessment, and publication-bias diagnostics
-- Git-tracked model objects and table outputs for a clean, auditable workflow
-- **R · meta / metafor · reproducible research**
+### Meta-Analysis: Unguided Self-Help CBT for Adolescent Depression (R)
+A systematic review & meta-analysis (master's thesis) built as a fully reproducible R codebase.
+- **Numbered script workflow** (00–10 + PRISMA): setup → data import → effect sizes → main/follow-up models → risk of bias → subgroup → meta-regression → sensitivity → publication bias → acceptability
+- Random-effects models (Hedges' *g*, REML + Hartung–Knapp) across 14 RCTs; PRISMA 2020 flow; Cochrane RoB 2.0 (`robvis`)
+- Publication-bias diagnostics: contour-enhanced funnel, Egger's test, Pustejovsky–Rodgers SMD-corrected test, trim-and-fill
+- **Defensive data handling**: fail-fast join assertions (`stopifnot`) to catch silent empty-join bugs; Git-tracked model objects (`.rds`) and CSV outputs for an auditable pipeline
+- **R · metafor · meta · robvis · tidyverse**
 - [GitHub Repository](https://github.com/li33893/meta-analysis)
 
 <hr>
 
 ## 🎓 Education
 
-**Hanyang University** — M.A. in Child Psychotherapy (Research Methods focus)
-- Thesis: AI-mediated mental health support — classification framework design, LLM-assisted validation, and discourse analysis
+**Hanyang University** — M.A. in Child Psychotherapy (Research Methods focus), Expected 2027
+- Thesis: meta-analysis of unguided self-help CBT for adolescent depression; plus a discourse-analysis study of AI use in online mental health communities
 
-**KDT Bootcamp (Java / Spring / Oracle)** — Full-stack development, 2026
+**Deojoeun Computer Academy (더조은컴퓨터아카데미), Incheon** — Full-stack Web/App Development Bootcamp, 2025.07–2026.01
+- MSA-based curriculum: Java full-stack (frontend & backend) + Flutter (Dart) for mobile/web app development
 
 **China University of Mining and Technology, Beijing** — B.A. in English Language and Literature, 2020
 
