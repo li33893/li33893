@@ -119,7 +119,7 @@ Mobile app; contributed community, notification, and navigation features.
 
 ### AI-Mediated Mental Health Content — Screening, Coding & Validation Pipeline
 A reproducible **Python + LLM-API** workflow for classifying and validating Reddit data at scale.
-- Built a **7-stage pipeline** to screen, classify, and validate 2,000+ posts
+- Built a **10-stage pipeline** to screen, classify, and validate 2,000+ posts
 - Designed a multi-dimensional classification framework with iterative decision rules
 - Established **human–LLM agreement verification** (Cohen's κ ≥ 0.80) using dual reliability metrics
 - Implemented batch LLM coding with **exponential backoff, checkpoint recovery, and structured error handling**
@@ -141,7 +141,7 @@ A fully reproducible meta-analysis codebase, organized for clarity and re-runnab
 
 ## 🎓 Education
 
-**Hanyang University** — M.A. in Child Psychotherapy (Research Methods focus), Expected 2026
+**Hanyang University** — M.A. in Child Psychotherapy (Research Methods focus)
 - Thesis: AI-mediated mental health support — classification framework design, LLM-assisted validation, and discourse analysis
 
 **KDT Bootcamp (Java / Spring / Oracle)** — Full-stack development, 2026
