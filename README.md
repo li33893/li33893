@@ -12,7 +12,7 @@ Full-stack & mobile developer who ships products end-to-end — Spring/Oracle ba
 
 ## 👋 소개 (Korean)
 
-안녕하세요, **풀스택·모바일 개발자 이미령 (Meiling Li)** 입니다.
+안녕하세요, **이미령 (Meiling Li)** 입니다.
 
 복잡한 요구사항을 안정적인 시스템으로 옮기는 일과, 데이터·검증 로직을 꼼꼼하게 다루는 일을 좋아합니다. **중국어·한국어·영어** 3개 국어로 협업할 수 있습니다.
 
