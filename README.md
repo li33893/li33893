@@ -10,7 +10,7 @@ Full-stack & mobile developer who ships products end-to-end — Spring/Oracle ba
 
 <hr>
 
-## 👋 소개 (Korean)
+## 👋 소개 
 
 안녕하세요, **이미령 (Meiling Li)** 입니다.
 
@@ -18,7 +18,7 @@ Full-stack & mobile developer who ships products end-to-end — Spring/Oracle ba
 
 <hr>
 
-## About Me (English)
+## About Me 
 
 <table>
 <tr><td>
